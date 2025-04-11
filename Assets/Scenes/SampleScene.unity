@@ -638,7 +638,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66877840d33ce49afac398b9d06a7e1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  backstory: 
+  backstory: "Orphaned during the Burning of the Jade Capital, Mei Lin was raised
+    in the Crimson Wind Monastery, where she learned to channel the breath of dragons
+    through her movements. Her fists strike like thunderclaps, yet her heart is rooted
+    in peace. She defeated an entire warband using only her sleeves\u2014and a poem."
 --- !u!1001 &537463011
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -1075,7 +1078,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   chatPanel: {fileID: 114098852}
-  chatText: {fileID: 0}
+  chatText: {fileID: 2080666394}
 --- !u!4 &1078704371
 Transform:
   m_ObjectHideFlags: 0
@@ -1473,7 +1476,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 66877840d33ce49afac398b9d06a7e1f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  backstory: 
+  backstory: "As a child, Bao Han was cursed with feet too heavy to lift. Instead
+    of despairing, he trained every day on stone paths until the earth trembled with
+    each step. Now, a single stomp from Bao can crack marble. They say he once walked
+    up a waterfall\u2014and down a mountain in a single bound."
 --- !u!1 &1976087558
 GameObject:
   m_ObjectHideFlags: 0
@@ -1643,7 +1649,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
+  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -1660,8 +1666,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 12
+  m_fontSizeBase: 12
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
